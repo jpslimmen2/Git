@@ -1,1 +1,2 @@
-Dit is zomaar een testbestandje
+dit is zomaar een tekstbestandje, die ik nu heb 
+aangepast”
